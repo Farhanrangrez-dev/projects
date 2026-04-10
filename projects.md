@@ -3,8 +3,6 @@
 <p align="center">
 A collection of my development projects showcasing my skills and experience.
 </p>
-
----
 # 🔒 Private Project
 
 > ⚠️ This project is private and not publicly accessible.
