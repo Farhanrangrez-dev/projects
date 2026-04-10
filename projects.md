@@ -16,15 +16,6 @@ A collection of my development projects showcasing my skills and experience.
 📧 farhanrangrez.work@gmail.com  
 💼 https://github.com/Farhanrangrez-dev  
 
-### Saaranik Project Links
- Live Demo: https://saaranik-ui.vercel.app/
- GitHub: https://github.com/Farhanrangrez-dev/Saaranik-UI
-
-Trendykid Project Links
- Live Demo: https://github.com/Farhanrangrez-dev/Trendykid
- GitHub: https://play.google.com/store/apps/details?id=app.evlop.trendykid
-
-
  ### 🚀 Saaranik Project
 
 - 🔗 Live Demo: https://saaranik-ui.vercel.app/  
