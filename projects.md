@@ -1,4 +1,4 @@
-<h1 align="center">🚀 My Projects Portfolio</h1>
+<h1 align="center">My Projects Portfolio</h1>
 
 <p align="center">
 A collection of my development projects showcasing my skills and experience.
@@ -11,7 +11,8 @@ A collection of my development projects showcasing my skills and experience.
 
 ### 📌 Reason
 - Client confidentiality  
-- Business logic protection  
+- Business logic protection
+- Multi-Project Integration
 
 ### 📩 Access
 📧 farhanrangrez.work@gmail.com  
