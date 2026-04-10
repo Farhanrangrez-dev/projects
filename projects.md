@@ -23,4 +23,5 @@ A collection of my development projects showcasing my skills and experience.
 Trendykid Project Links
  Live Demo: https://github.com/Farhanrangrez-dev/Trendykid
  GitHub: https://play.google.com/store/apps/details?id=app.evlop.trendykid
+ 
 > Available on request (Demo / Code overview)
